@@ -9,11 +9,11 @@
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-ingress-barcodes.git"
+    "url": "git://github.com/hubot-ingress-barcodes.git"
   },
 
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-ingress-barcodes/issues"
+    "url": "https://github.com/hubot-ingress-barcodes/issues"
   },
 
   "dependencies": {
